@@ -1,2 +1,3 @@
 # Project Update
 Summarize candidate profiles
+Write installation notes
