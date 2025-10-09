@@ -1,3 +1,4 @@
 # Project Update
 Summarize candidate profiles
 Write installation notes
+Verify API endpoints
